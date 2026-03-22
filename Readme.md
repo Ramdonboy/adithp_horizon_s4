@@ -65,19 +65,22 @@ An LED indicator is used to signal when the input attempts to exceed the safe li
 ---
 
 
+
+---
+
 ##  Simulation Demo
-
-📽️ Video Link:
+ Video Link:
 https://drive.google.com/file/d/1Jj3lrv_L4MHyXXMwNBPlsdbf9ypelGBl/view?usp=sharing
+ 
+---
+
+##  Tinkercad Circuit
+
+ Project Link:
+![alt text](<Mighty Jaiks-Jofo-1.png>)
 
 ---
 
-## 🔗 Tinkercad Circuit
-
-🔗 Project Link:
-![alt text](<Mighty Jaiks-Jofo.png>)
-
----
 
 
 ##  Example Behavior

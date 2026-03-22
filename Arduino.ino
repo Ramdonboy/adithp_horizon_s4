@@ -11,6 +11,7 @@ int angle;
 
 void setup() {
   myServo.attach(servoPin);
+  
   pinMode(ledPin, OUTPUT);
   Serial.begin(9600); 
 }

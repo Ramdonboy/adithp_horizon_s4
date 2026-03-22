@@ -77,7 +77,7 @@ https://drive.google.com/file/d/1Jj3lrv_L4MHyXXMwNBPlsdbf9ypelGBl/view?usp=shari
 ##  Tinkercad Circuit
 
  Project Link:
-![alt text](<Mighty Jaiks-Jofo-1.png>)
+![alt text](<Mighty Jaiks-Jofo.png>)
 
 ---
 
